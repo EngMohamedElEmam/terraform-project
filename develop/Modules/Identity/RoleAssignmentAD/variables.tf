@@ -1,6 +1,6 @@
 variable "environment" {
   type        = string
-  default     = "DevOpsDev"
+  default     = "Development"
   description = "Sets the environment for the resources"
 }
 
